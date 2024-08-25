@@ -1,0 +1,243 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+header{
+	padding: 10px 0;
+}
+.menu ul li a{
+	font-size: 15px;
+	padding: 8px 0 0 !important;
+	text-align: right;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	padding-bottom: 60px;
+}
+.c_ind{
+	bottom: -55px;
+}
+.c_ind [data-bs-target]{
+	width: 11px ;
+	height: 11px;
+}
+.s_text{
+	margin-top: 0px;
+}
+.s_text h1{
+	font-size: 25px;
+}
+.s_text h2{
+	margin: 10px 0;
+	font-size: 18px;
+}
+.s_text p{
+	margin-bottom: 20px;
+}
+.s_icon ul li{
+	margin-right: 20px !important;
+}
+.s_icon ul li i{
+	font-size: 35px;
+}
+/*slider end*/
+/*feature start*/
+.feature{
+	padding-top: 80px;
+	padding-bottom: 70px;
+}
+.c_h1{
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+.c_p{
+	font-size: 17px;
+	line-height: 25px;
+}
+.f_item{
+	margin-top: 30px;
+}
+.f_icon i{
+	margin-top: 0;
+    font-size: 35px;
+}
+.f_text{
+	text-align: center;
+}
+.f_text h2{
+	margin-bottom: 0;
+	font-size: 20px;
+}
+.f_text p{
+	letter-spacing: 0;
+}
+/*Feature end*/
+/*footer top start*/
+.newsletter{
+	padding: 60px 0 80px;
+}
+.n_input{
+	height: 42px;
+}
+.n_btn{
+	height: 42px;
+}
+.ft_address address {
+        text-align: center;
+}
+.ft_links{
+   padding-bottom: 25px;
+}
+.ft_links ul li a{
+	margin-bottom: 5px;
+}
+/*footer top end*/
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.menu ul li a{
+	font-size: 20px;
+	padding: 10px 0 0 !important;
+	text-align: right;
+}
+/*header end*/
+/*slider start*/
+.slider{
+	padding-bottom: 60px;
+}
+.c_ind{
+	bottom: -55px;
+}
+.c_ind [data-bs-target]{
+	width: 13px ;
+	height: 13px;
+}
+.s_text{
+	margin-top: 0px;
+}
+.s_text h1{
+	font-size: 25px;
+}
+.s_text h2{
+	margin: 10px 0;
+	font-size: 18px;
+}
+.s_text p{
+	margin-bottom: 20px;
+}
+.s_icon ul li{
+	margin-right: 20px !important;
+}
+.s_icon ul li i{
+	font-size: 35px;
+}
+/*slider end*/
+/*feature start*/
+.feature{
+	padding-top: 80px;
+	padding-bottom: 70px;
+}
+.c_h1{
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+.c_p{
+	font-size: 17px;
+	line-height: 25px;
+}
+.f_item{
+	margin-top: 30px;
+}
+.f_icon i{
+	margin-top: 0;
+    font-size: 35px;
+}
+.f_text{
+	text-align: center;
+}
+.f_text h2{
+	margin-bottom: 0;
+	font-size: 20px;
+}
+.f_text p{
+	letter-spacing: 0;
+}
+/*Feature end*/
+/*footer top start*/
+.newsletter{
+	padding: 75px 0 100px;
+}
+.n_input{
+	height: 42px;
+}
+.n_btn{
+	height: 42px;
+}
+.ft_address address {
+	padding-bottom: 25px;
+	font-size: 15px;
+}
+.ft_links ul li a {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+/*footer top end*/
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a{
+	padding: 10px 0 0 !important;
+	text-align: right;
+}
+/*header end*/
+/*feature start*/
+.feature{
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+.f_item{
+	margin-top: 50px;
+}
+/*feature end*/
+/*footer top start*/
+.c_h1{
+	margin-bottom: 10px;
+}
+.n_h1{
+	font-size: 30px;
+}
+.n_p{
+	font-size: 18px;
+}
+.n_form {
+    padding: 35px 0 40px;
+}
+.n_input {
+    height: 50px;
+}
+.n_btn{
+	height: 50px;
+}
+.ft_address address {
+	font-size: 15px;
+}
+.ft_links ul li a {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+/*footer top end*/
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}

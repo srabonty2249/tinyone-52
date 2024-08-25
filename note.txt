@@ -1,0 +1,8 @@
+font-family: "PT Sans", sans-serif;
+color:
+black:#010101
+yellow:#fcdb00
+gray:#898989
+
+
+  
